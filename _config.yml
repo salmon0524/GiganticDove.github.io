@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Finding way to Far from Home
+email:              salmonqawsed@gmail.com
+description:        The story begins here, learn about the protagonist!
+author:             Joohyun Kim
+baseurl:            ""
+url:                "https://GiganticDove.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
