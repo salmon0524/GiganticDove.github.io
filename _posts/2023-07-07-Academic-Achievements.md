@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Academic Achievements"
-subtitle: "In youth I soared, no moment spared, For life's mundane, I scarcely cared."
+subtitle: "In youth I soared, no moment spared."
 background: '/img/posts/01.jpg'
 ---
 
