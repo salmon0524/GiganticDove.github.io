@@ -22,8 +22,8 @@ background: '/img/posts/05.jpg'
 
 <h2 class="section-heading">My Chinese</h2>
 
-<0>I have been taking HSK exam since middle school, starting from 4th level, and reached 6th (the highest) level and got 268/300 in the test.
-My friends describe me: "I didn't even know you were not Chinese before you told me so."
+<p>I have been taking HSK exam since middle school, starting from 4th level, and reached 6th (the highest) level and got 268/300 in the test.
+My friends describe me: "I didn't even know you were not Chinese before you told me so."</p>
 
 ![IMDb Images](/img\posts\Chin\HSK2.jpg)
 
