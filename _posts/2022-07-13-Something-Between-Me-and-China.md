@@ -15,7 +15,8 @@ background: '/img/posts/05.jpg'
 
 <p>Every character, every brushstroke in the Chinese script, is akin to a dance. It transcends mere semantics and phonetics, delving into profound depths. Each character is imbued with echoes of ancient dynasties, enriched by its rhythm, its soul, its essence. This is a nuance seldom found in other languages: where a single character can possess the depth of an entire sentence, and just seven characters can vividly capture a scene, a persona, a bloom, or an emotion.</p>
 
-![IMDb Images](/img\posts\Chin\cali.jpg)
+<img src="/img/posts/Chin/cali.jpg" alt="IMDb Images" style="transform: rotate(90deg);" />
+
 <span class="caption text-muted">Written by me, couplet of "滕王阁序"</span>
 
 
